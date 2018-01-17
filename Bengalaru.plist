@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>domain.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NameList</key>
+	<array>
+		<string>History</string>
+		<string>Weather</string>
+		<string>Heritage</string>
+		<string>Parks</string>
+		<string>Fun time</string>
+		<string>Entertainment</string>
+		<string>Food</string>
+		<string>Accommodation</string>
+		<string>Shopping centers</string>
+		<string>Resorts</string>
+		<string>Night life</string>
+		<string>Namma metro</string>
+		<string>Help</string>
+	</array>
+	<key>History</key>
+	<array>
+		<string>History</string>
+		<string>Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of about 8.42 million and a metropolitan population of about 8.49 million, making it the third most populous city and fifth most populous urban agglomeration in India. A succession of South Indian dynasties, the Western Gangas, the Cholas and the Hoysalas, ruled the present region of Bengaluru until in 1537 CE, Kempe Gowda – a feudatory ruler under the Vijayanagara Empire – established a mud fort considered to be the foundation of modern Bengaluru.</string>
+		<string>http://en.wikipedia.org/wiki/Bangalore#History</string>
+		<string>10</string>
+	</array>
+	<key>Weather</key>
+	<array>
+		<string>Weather</string>
+		<string>Weather is driven by air pressure (temperature and moisture) differences between one place and another. These pressure and temperature differences can occur due to the sun angle at any particular spot, which varies by latitude from the tropics. The strong temperature contrast between polar and tropical air gives rise to the jet sreams.</string>
+		<string>http://www.accuweather.com/en/in/bangalore/204108/weather-forecast/204108</string>
+		<string>1</string>
+	</array>
+	<key>Heritage</key>
+	<array>
+		<string>Bangalore palace</string>
+		<string>Bangalore palace located in Bengaluru, India, was built by Rev. Garrett, who was the first Principal of the Central High School in Bangalore, now known as Central College.
+The construction of the palace was started in 1862 and completed in 1944. In 1884, it was bought by the then Maharaja of Mysore HHChamarajendra Wadiyar X Now owned by the Mysore royal family, the palace has recently undergone a renovation.</string>
+		<string>http://en.wikipedia.org/wiki/Bangalore_Palace</string>
+		<string>9</string>
+		<string>Gavi Gangadhareshwara Temple</string>
+		<string>Gavi Gangadhareshwara Temple also Gavipuram Cave Temple, an example of Indian rock-cut architecture, is located in Bangalore in the state of Karnataka in India. The temple is famous for its mysterious stone discs in the forecourt and the exact planning allowing the Sun to shine on shrine in certain time of the year.</string>
+		<string>http://en.wikipedia.org/wiki/Gavi_Gangadhareshwara_Temple</string>
+		<string>1</string>
+		<string>Dodda Basavana Gudi</string>
+		<string>Dodda Basavana Gudi (the Nandhi Temple) is situated in Bull Temple Road, Basavanagudi, area of South Bangalore, part of the largest city of the Indian state of Karnataka. The Hindu temple is inside a park called Bugle Rock. The bull referred to is a sacred Hindu demi-god, known as Nandi; Nandi is a close devotee and attendant of Shiva. Dodda Basavana Gudi is said to be the biggest temple to Nandi in the world. The stone cult image of Nandi is continually covered with new layers of butter,benne in the local language of Kannada. There is a cult image of the elephant-headed Hindu deity son of shiva Ganesha close by.</string>
+		<string>http://en.wikipedia.org/wiki/Dodda_Ganeshana_Gudi</string>
+		<string>8</string>
+		<string>Vidhana Soudha</string>
+		<string>The Vidhana Soudha, located in Bengaluru (Bangalore), is the seat of the state legislature ofKarnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian, and incorporates elements of Indo-Saracenic and Dravidian styles. The construction was completed in 1956.</string>
+		<string>http://en.wikipedia.org/wiki/Vidhana_Soudha </string>
+		<string>11</string>
+		<string>Karnataka High Court</string>
+		<string>The Karnataka High Court is the High Court of the Indian state of Karnataka. It is located in Bangalore, the capital city of Karnataka. The High Court functions out of a red brick building known as Attara Kacheri. It is in front of Vidhana Soudha, which is the seat of the legislature of Karnataka.The Karnataka High Court is currently functional in Bangalore, Hubli-Dharwad andGulbarga.</string>
+		<string>http://en.wikipedia.org/wiki/Karnataka_High_Court</string>
+		<string>1</string>
+		<string>Iskon</string>
+		<string>Iskon : Sri Radha Krishna Temple has deities of Radha and Krishna located at Rajajinagar, in the North Bangalore, Karnataka, India. It is one of the largest ISKCON temples in the world. The temple is a huge cultural complex that was inaugurated in 1997 by Shankar Dayal Sharma. The project was conceived and executed by Madhu Pandit Dasa following the wishes of HDG A. C. Bhaktivedanta Swami Prabhupada, the Founder-Acarya of ISKCON to promote Vedic culture and spiritual learning.</string>
+		<string>http://en.wikipedia.org/wiki/ISKCON_Temple_Bangalore</string>
+		<string>9</string>
+		<string>Nehru Planetarium</string>
+		<string>Nehru Planetarium is the name given to five planetariums in India, named after India&apos;s first Prime Minister, Jawaharlal Nehru. These are located in Mumbai, New Delhi, Pune and Bangalore, plus there is a Jawahar Planetarium in Allahabad. Nehru Planetarium in Pune was the first one in Asia, established in 1954.</string>
+		<string>http://en.wikipedia.org/wiki/Nehru_Planetarium</string>
+		<string>7</string>
+		<string>VITM</string>
+		<string>The Visvesvaraya Industrial and Technological Museum (VITM) is a museum in Bangalore, India. Its management comes under the National Council of Science Museums (NCSM), Government of India. The museum was instituted as part of the centenary celebrations of the engineer-statesman Sir M. Visvesvaraya(1861-1962). It was handed over to the Council of Scientific and Industrial Research (CSIR) in 1962. In 1978 when the National Council of Science Museums (NCSM) was formed, Visvesvaraya Industrial and Technological Museum became its southern headquarters. The Council has a chain of 28 centers spread all over India. The objective of the Council is to popularize science through interactive exhibits.</string>
+		<string> http://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum</string>
+		<string>8</string>
+		<string>Art of Living</string>
+		<string>The Art of Living Foundation is a volunteer-based, humanitarian and educational non-governmental organizations (NGO). It was founded in 1981 by Sri Sri Ravi Shankar. The Foundation is working in special consultative status with the United Nations Economic and Social Council (ECOSOC) of the United Nations. The International Association for Human Values is a partner NGO that Shankar founded, that focuses on the upliftment of human values at the grassroots level.</string>
+		<string>http://en.wikipedia.org/wiki/Art_of_Living_foundation</string>
+		<string>7</string>
+		<string>Marys Basilica</string>
+		<string>St. Mary&apos;s Basilica is a basilica located in the Archdiocese of Bangalore in the Indian state of Karnataka. It is the oldest church inBangalore and is the only church in the state that has been elevated to the status of a minor basilica. St. Mary&apos;s Basilica not only attracts Christians, but also other religious groups. It is famous for the festivities held during the St. Mary&apos;s Feast in the month of September each year, an event that attracts a number of devotees from in and around Bangalore.</string>
+		<string>http://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Bangalore</string>
+		<string>8</string>
+	</array>
+	<key>Parks</key>
+	<array>
+		<string>Lal Bagh</string>
+		<string>Lal Bagh or Lal Bagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southernBangalore, India. The garden was originally commissioned by Hyder Ali, the ruler of Mysore, and later finished by his son Tipu Sultan. It has a famous glass house which hosts an annual flower show. Lal Bagh houses India&apos;s largest collection of tropical plants, has an aquarium and a lake, and is one of the main tourist attractions in Bangalore.</string>
+		<string>http://en.wikipedia.org/wiki/Lal_Bagh,_Bengaluru</string>
+		<string>14</string>
+		<string>Cubbon Park</string>
+		<string>Cubbon Park is a landmark &apos;lung&apos; area of the Bangalore city, located (12.97°N 77.6°E) within the heart of city in the Central Administrative Area. Originally created in 1870, when Major General Richard Sankey was the then British Chief Engineer of Mysore state, it covered an area of 100 acres (0.40 km2) and subsequent expansion has taken place and the area reported now is about 300 acres (1.2 km2). It has a rich recorded history of abundant flora and fauna plantations coupled with numerous impressive and aesthetically located buildings and statues of famous personages, in its precincts.</string>
+		<string>http://en.wikipedia.org/wiki/Cubbon_Park</string>
+		<string>12</string>
+		<string>Bannerghatta Biological Park</string>
+		<string>The Bannerghatta Biological Park, popularly known as BBP, has been an integral part of Bannerghatta National Park and emerged out as an independent establishment during the year 2002. It is in order to meet the growing demand for eco-recreation, eco-tourism and conservation, an area of 545.00 Ha of forest from National park was set aside to constitute as Biological Park originally and later extended to 731.88 Ha</string>
+		<string>http://bannerghattabiologicalpark.org/ </string>
+		<string>16</string>
+		<string>Freedom Park</string>
+		<string>Freedom Park is located in the Central Business District of the city of Bengaluru, Karnataka, India. It was formerly the Central Jail. It was opened to the public in November 2008. A part of it has been allotted for protests.When a state of emergency was proclaimed in India in 1975, several opposition leaders including Atal Bihari Vajpayee andL.K. Advani were arrested and jailed at this venue. It also hosted the India Against Corruption (IAC) supported Anna Hazare indefinite fast for governmental action in the enactment of the Lok Pal bill.</string>
+		<string>http://en.wikipedia.org/wiki/Freedom_Park,_Bangalore</string>
+		<string>8</string>
+	</array>
+	<key>Fun time</key>
+	<array>
+		<string>Wonder La</string>
+		<string>Wonder La: Wonderla Holidays Limited is a leading amusement park designing and operating company in India headquartered near Bidadi, 28 kilometres (17 mi) from Bangalore. It is promoted by Kochouseph Chittilappilly and his son Arun Chittilappilly. Wonderla&apos;s flagship amusement park located at the same address is the second theme park project from the company and has been operational since October 2005. It is spread over an area of 82 acres (33 ha). The first amusement park, Wonderla Kochi, was set up in 2000. The parks have been set up with a total investment of over Rs. 2.5 billion.
+Mon-Fri: 11:00 am to 6:00 pm
+Sat-Sun: 11:00 am to 7:00 pm
+Holidays and Peak Season: 11:00 am to 7:00 pm </string>
+		<string>http://www.wonderla.com/</string>
+		<string>16</string>
+		<string>Innovative film city</string>
+		<string>Innovative film city :
+Mon, Tue, Wed, Thu, Fri:10:00 AM - 6:00 PM
+Sat, Sun :10:00 AM - 7:00 PM</string>
+		<string>http://www.innovativefilmcity.in/home.html</string>
+		<string>16</string>
+		<string>Fun world</string>
+		<string>Fun world: A world of Entertainment. Once you enter fun world rest is all forgotten. A park with so much to offer, in the heart of Bangalore City.
+Fun World : 11:00 Am to 7:30 Pm
+Water World : 11:00 Am to 4:30 Pm
+Star City : 11:00 Am to 8:00 Pm</string>
+		<string>http://www.funworldblr.com/</string>
+		<string>11</string>
+		<string>Lumbini Gardens</string>
+		<string>Lumbini Gardens:A one of its kind Water-Front Leisure &amp; Eco-friendly Boating Park, The Lumbini Garden, stretches over 1.5 kms along the Nagavara Lake. Unique in its concept, this absolute family entertainment park holds a capacity to entertain a crowd of over 5,000 visitors per day. A Wave pool, provision for parties &amp; get-togethers cater to the tasteful and enthusiastic public 
+Open today · 11:00 am – 7:00 pm</string>
+		<string>http://www.lumbinigardens.com/</string>
+		<string>6</string>
+	</array>
+	<key>Entertainment</key>
+	<array>
+		<string>Entertainment</string>
+		<string>Never feel be boared in the garrden city .Follow the &quot;link&quot; below for more information</string>
+		<string>http://in.bookmyshow.com/bengaluru</string>
+		<string>1</string>
+	</array>
+	<key>Food</key>
+	<array>
+		<string>South indian</string>
+		<string>To have Homely food and to taste real bangloorean food click &quot;link&quot; below</string>
+		<string>https://www.zomato.com/bangalore/restaurants/south-indian</string>
+		<string>1</string>
+		<string>North Indian</string>
+		<string>Want to try some other state tasty food of india click &quot;link&quot; below</string>
+		<string>https://www.zomato.com/bangalore/restaurants/north-indian</string>
+		<string>1</string>
+		<string>Chinese</string>
+		<string>Want to try some Asian food click &quot;Link&quot; below</string>
+		<string>https://www.zomato.com/bangalore/restaurants/chinese</string>
+		<string>1</string>
+		<string>Continental</string>
+		<string>Want try a nice American foods in Bangalore click &quot;link&quot; below</string>
+		<string>https://www.zomato.com/bangalore/restaurants/continental</string>
+		<string>1</string>
+		<string>Italian</string>
+		<string>Tasty italian cruise in Bangalore click &quot;link&quot; below</string>
+		<string>https://www.zomato.com/bangalore/restaurants/italian</string>
+		<string>1</string>
+	</array>
+	<key>Accommodation</key>
+	<array>
+		<string>Le meridien</string>
+		<string>Set amidst the Garden City’s greenery, near a picturesque golf course, Le Méridien Bangalore offers a world-class experience. The hotel is centrally located near the Central Business District (CBD) and is a short drive from Manyata Tech Park. Kempegowda International Airport (BLR) and the outskirts of the city are easily accessible.Follow the &quot;link&quot; below for more information</string>
+		<string>http://www.starwoodhotels.com/lemeridien/rates/room.html?stateProvince=&amp;refPage=property&amp;departureDate=&amp;ctx=search&amp;arrivalDate=&amp;priceMin=&amp;city=&amp;iataNumber=&amp;iATANumber=&amp;sortOrder=&amp;propertyId=1833&amp;corporateAccountNumber=&amp;ratePlanName=&amp;accessible=&amp;dateFormatString=MM%2FDD%2FYYYY&amp;country=&amp;numberOfRooms=1&amp;numberOfAdults=1&amp;priceMax=&amp;bedType=&amp;currencyCode=&amp;nonSmoking=&amp;numberOfChildren=0</string>
+		<string>8</string>
+		<string>Grand lalit Ashoka</string>
+		<string>The Lalit Ashok Bangalore with its contemporary and elegant ambience is distinguished by the latest in business technology, trendy amenities and impeccable hospitality. The first hotel in South India to be accredited by ISO 22000 standard, The Lalit Ashok Bangalore is strategically located in the highly secure diplomatic enclave of Bangalore and offers a sprawling view of the adjacent 18-hole golf course. Nestled midst 10 acres of sprawling landscaped and manicured lawns, The Lalit Ashok Bangalore is one of the finest five-star hotels in Bangalore.  Follow the &quot;link&quot; below for more information</string>
+		<string>http://www.thelalit.com/reservations/The-Lalit-Ashok-Bangalore/?languageid=1&amp;hotelid=86312&amp;datein=02%2F28%2F2015&amp;Length=1&amp;adults=</string>
+		<string>7</string>
+		<string>Chancery Pavilion</string>
+		<string>The Chancery Pavilion ultra-modern hotel, is a landmark in Bangalore&apos;s central business district. Overlooking the lush green Bangalore club, you see her sweeping profile. The polished cobbled entry welcomes you to the world of unbuttoned luxury. Glittering lobby, lounge bar, swanky restaurants, all day dining options, inviting swimming pool, well equipped gymnasium, health spa and over 20,000 sq. ft. of banqueting and conferencing space.
+The Chancery Pavilion, Bangalore’s new-age 5 star luxury business hotel of discerning choice. Set on an elevation amidst the heart of Bangalore’s central business district on Residency Road, The Chancery Pavilion is the perfect destination for business travelers, tourists, medical visits and even quick getaways
+ Follow the &quot;link&quot; below for more information</string>
+		<string>https://bookings.ihotelier.com/The-Chancery-Pavilion/bookings.jsp?hotelId=72066</string>
+		<string>9</string>
+		<string>Ibis Hotel</string>
+		<string>Ibis Bengaluru Techpark is ideally located on the Sarjapur ORR amidst numerous business parks, and is the only international economy hotel brand in the area. With 311 contemporary designed rooms offering complimentary Wi-Fi, a 24/7 gym, it is an ideal choice for business travellers to work comfortably and sleep well. Spice it offers interactive Indian buffet while the Hub is a perfect place to unwind. Being part of a complex, guests can also use Swimming pool and Spa in the adjacent Novotel.Follow the &quot;link&quot; below for more information.</string>
+		<string>http://www.ibis.com/gb/hotel-7441-ibis-bengaluru-techpark/index.shtml</string>
+		<string>6</string>
+		<string>Windsor manor</string>
+		<string>ITC Windsor, a luxury hotel in Bengaluru, merges an old world ambience with international service to create a hotel experience that goes beyond expectation. This luxury hotel in Bengaluru has long acquired a reputation of playing host to the aristocracy of the world. The hotel is located 3 kilometres from the business centre and 33 kilometres from the airport in a highly secure diplomatic pocket. This splendid downtown location is near the prominent business and commercial areas, the historic landmark Vidhana Soudha and opposite the Bangalore Golf Course. 
+Lush landscaped gardens, wood panelling and Queen Anne furniture paint a picture of the charm and grace of the Regency era. 240 guest rooms and suites promise a respite filled with opulence and grandeur. 
+ Follow the &quot;link&quot; below for more information</string>
+		<string>http://www.starwoodhotels.com/luxury/property/overview/index.html?propertyID=429&amp;language=en_US</string>
+		<string>8</string>
+		<string>Taj vivanta</string>
+		<string>Soak in the space that&apos;s bang in the centre of Bangalore&apos;s business and entertainment areas. Drive in from the airport delighting in backseat surprises (we&apos;re not revealing here). You&apos;ll see how we mean business in a quiet efficient way from the moment you step in. Our lobby is a unique mix of chic and classic. This arrival zone sets the tone for guestrooms and banquet facilities that deliver the ultimate in urban relaxation. Get set to be delighted with small surprises from the moment you enter. 
+
+Discover the most happening restaurants in M.G road,Bangalore which open to the lobby or the pool to create an enticing food zone offering the best in world cuisine. Technology is woven through it all. Vivanta by Taj - M G Road has all the entertainment and connectivity options today&apos;s traveller requires. Become a part of our world. Feel the pulse of an international business and conferencing destination. Experience the buzz.
+ Follow the &quot;link&quot; below for more information</string>
+		<string>http://www.vivantabytaj.com/mgroad-bangalore/overview.html</string>
+		<string>9</string>
+		<string>Oberoi</string>
+		<string>Nestled in lush, tropical grounds and equipped with the latest in technology, The Oberoi, Bengaluru reflects and harmonises the dual personalities of Bengaluru the Garden City and major IT hub.The hotel is located in the centre of the city, close to the financial district, and is built around the 120 year old rain tree that sits at its centre - the jewel of the hotel’s vast, exquisite gardens.All rooms have high speed WiFi access, and are equipped with Oberoi E’nhance, an iPad interface that allows guests to manage everything from entertainment to in-room dining. Follow the &quot;link&quot; below or more information</string>
+		<string>http://www.oberoihotels.com/hotels-in-bangalore/</string>
+		<string>6</string>
+		<string>Itc gardenia</string>
+		<string>ITC Gardenia embodies the splendors of Nature.This luxury hotel in Bengaluru was built as a tribute to the beautiful city of Bengaluru, and inspired from the magnificent gardens of the City. The Hotel is conveniently located in the commercial heart of Bengaluru and is in close proximity to key business districts and IT hubs of Bengaluru. This luxury hotel in Bengaluru is equipped with 292 Luxury rooms and suites offering the discerning business and leisure traveler the best in hospitality and Hotel services.  Follow the &quot;link&quot; below for more information</string>
+		<string>https://www.itchotels.in/booking/bookhotels.aspx</string>
+		<string>7</string>
+	</array>
+	<key>Shopping centers</key>
+	<array>
+		<string>UB city</string>
+		<string>UB city: Centrally located in the CBD (Central Business District) of Bangalore on Vittal Mallya Road, UB City is just 1.5kms away from the MG Road – Brigade Road junction. With a total built up area of 16 lakh sqft., UB City is completed by the UB Tower, Kingfisher Plaza, Concorde, Canberra &amp; Comet Blocks! Each of these blocks stand out for their distinctive look, while yet combining to produce the feeling of a city. UB City also boasts of the largest Triple Level Puzzle Parking system that houses close to 1600 Cars.
+Angsana Spa Timings 10:00 AM - 8 PM
+Khansama Timings 12:00 Noon - 3:30 PM &amp; 7:30 PM - 11:30 PM
+Restaurant Timings 11:00 AM - 11:30 PM*
+Store Timings 10:30 AM - 8:30 PM</string>
+		<string>http://www.ubcitybangalore.in/ </string>
+		<string>12</string>
+		<string>Gandhi Bazar</string>
+		<string>Gandhi Bazar: Basavanagudi is one of the oldest areas of Bangalore city. The main commercial street of Basavanagudi is DVG Road which is home to numerous retail businesses several of them dating back to the 1970s and 80&apos;s. Towards the middle of DVG Road is Gandhi Bazaar which is a fresh fruit, vegetable and flower market.</string>
+		<string>http://www.asklaila.com/Gandhi-Bazaar-Guide-Bangalore/lg77/</string>
+		<string>9</string>
+		<string>Commercial street</string>
+		<string>Commercial street: The Central Business District of Bangalore, is the area with a radius of 6 kilometers from Vidhan Soudha. This is the main commercial area of Bangalore. Here you will find everything, from shoes to cars. It has many high rises, with UB Tower as the highest at 123 m (404 ft). The Collection in UB City is India&apos;s first Luxury Shopping Mall. The Land prices are sky high, Brigade Road is Asia&apos;s third most expensive street, Mahatma Gandhi Road, Bangalore is 13 th most expensive in Asia.</string>
+		<string>http://en.wikipedia.org/wiki/Bangalore_Central_Business_District</string>
+		<string>9</string>
+		<string>MG road</string>
+		<string>MG road: Mahatma Gandhi Road also known as M.G. Road is a road in Bangalore, India. It runs east from Trinity Circle at one end to Anil Kumble circle at the other. Known as South Parade in pre-independence era, it was renamed as Mahatma Gandhi Road on 26 February 1948. M. G. Road is also one of the busiest roads in the city and is lined on one side with retail stores, food outlets and restaurants. It has many office buildings, shops and theatres. It is also a home to a large number of buildings and banks. M.G. Road now has its very own Metro Railway Station Presently, the M.G Road Boulevard is being reconstructed after construction of the MG Road Metro station was completed and services launched on October 20, 2011.The Bangalore Metro line that runs through MG Road, connects the eastern part of Bangalore with the west.</string>
+		<string>http://en.wikipedia.org/wiki/M_G_Road,_Bangalore</string>
+		<string>9</string>
+		<string>Brigade road</string>
+		<string>Brigade Road is one of the biggest commercial centres and busiest shopping areas of Bangalore,[1] the state capital of Karnataka, India. It is also a connecting road between the M G Road and Residency Road in the city. It has many shopping centres and retail outlets of international brands. It has also been a New Year celebration hub in the city for many years. It has many shops,restaurants, pubs and other happening places. It forms the connection between MG Road and Hosur Road. In 2004, parking meters were imported from France to manage the 85 parking slots on the road. On an average, 1400 cars, park in a day</string>
+		<string>http://en.wikipedia.org/wiki/Brigade_Road,_Bangalore</string>
+		<string>10</string>
+		<string>Chickpet</string>
+		<string>Chickpet is a well-known shopping area in Bangalore under the Bangalore South Lok Sabha constituency. Its roots go back to the 16th century.</string>
+		<string>http://en.wikipedia.org/wiki/Chickpet</string>
+		<string>10</string>
+		<string>Forum mall</string>
+		<string>Forum mall: Located at Koramangala, a prosperous and high density catchments area and a mere 10 minutes from Brigade Road, is 4 and half acres of main road abutting land that will soon house Three and a half lakh square foot of pulsating entertainment and brand penetrating retailing all under one roof.</string>
+		<string>http://www.theforumexperience.com/</string>
+		<string>10</string>
+		<string>Orion mall</string>
+		<string>Orion mall: Conveniently located, the Orion Mall can be accessed easily by road, and is beside the proposed Metro rail station on Dr. Rajkumar road. From everyday family shopping needs to high street luxury shopping, a quick bite on the go to a 7 course fine dining spread, Orion’s portfolio of over 100 brands caters to everyone and every mood. Set to be the best mall in Bangalore in its category, the mall incorporates the latest technological advancement in structure, space utilisation and security systems, for retailers and customers alike to enjoy a safe and hassle free environment.</string>
+		<string>http://orionmalls.com/</string>
+		<string>14</string>
+	</array>
+	<key>Resorts</key>
+	<array>
+		<string>Guhantara</string>
+		<string>Guhantara - the heart of the cave, as it would literally mean, you find yourself in midst of an exhilarating experience. India&apos;s very first Underground Cave resort, which is nested peacefully under the surface of the earth.</string>
+		<string>http://www.guhantara.com</string>
+		<string>9</string>
+		<string>Holiday village</string>
+		<string>Holiday village: No- 35, 9th Mile, Kanakpura Road, Vajarahalli Village, Bengaluru, Karnataka 560062, India</string>
+		<string>http://www.holidayvillage.in/</string>
+		<string>4</string>
+		<string>Royal Orchid Resort</string>
+		<string>Royal Orchid Resort, Bangalore is spread over 8 acres of greens. It houses 49 rooms categorized in Deluxe rooms with all modern comforts and amenities.
+It is very popular for its Indian restaurant – the 9th Mile Dhaba. It is also a much preferred venue for business conferences, weddings, parties and social get-togethers.</string>
+		<string>http://www.royalorchidhotels.com/royal-orchid-resort-Bangalore/overview.asp</string>
+		<string>4</string>
+		<string>Palm Meadows</string>
+		<string>Palm Meadows: If a tranquil getaway, without the stress and hassles of city life is what you’re looking for; Palm Meadows Club is here to assist you in doing just that. Set on a property of 5 acres, this sprawling club offers our guests the ultimate in relaxation with surprises in every part of the property that are nothing short of utmost luxury.Palm Meadows Club is situated in Whitefield, which is the undisputed IT hub, making it conveniently located close to all the major business parks in Bangalore.</string>
+		<string>http://www.palmmeadowsclub.com/</string>
+		<string>8</string>
+	</array>
+	<key>Night life</key>
+	<array>
+		<string>Night life</string>
+		<string>Get lost in te wild . Follow the &quot;link&quot; below for more information</string>
+		<string>https://www.zomato.com/bangalore/restaurants?category=3</string>
+		<string>1</string>
+	</array>
+	<key>Namma metro</key>
+	<array>
+		<string>Namma metro</string>
+		<string>Namma metro: Bangalore Metro, christened as &quot;Namma Metro&quot;, not only adds to the beauty of Bangalore skyline, but immensely adds to the comfort level of travel. Besides this, Namma Metro is a major environment friendly addition to the Bangalore City as it significantly contribute to the reduction of carbon emissions.</string>
+		<string>http://bmrc.co.in/</string>
+		<string>8</string>
+	</array>
+	<key>Help</key>
+	<array>
+		<string>Help</string>
+		<string>Police: 100
+Ambulance: 108
+Fire: 101
+Just Dial: +9169999999.
+</string>
+		<string></string>
+		<string>1</string>
+	</array>
+</dict>
+</plist>

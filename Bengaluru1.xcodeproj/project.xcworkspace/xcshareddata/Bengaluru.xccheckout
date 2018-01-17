@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>19643973-305C-42CC-99BD-9013C5EC330F</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>116dc4a9-b042-40dd-b87b-4fe04d0a746b++7432</key>
+		<string>https://prod.oreilly.com/internal/books/learning_ios_prog_3e/current/code/Ch06%2520-%2520CityGuide3/CityGuide</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>116dc4a9-b042-40dd-b87b-4fe04d0a746b++7432</key>
+		<string>CityGuide/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>116dc4a9-b042-40dd-b87b-4fe04d0a746b++7432</key>
+		<string>https://prod.oreilly.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://prod.oreilly.com/internal/books/learning_ios_prog_3e/current/code/Ch06%2520-%2520CityGuide3/CityGuide</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>116dc4a9-b042-40dd-b87b-4fe04d0a746b++7432</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>116dc4a9-b042-40dd-b87b-4fe04d0a746b++7432</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CityGuide</string>
+		</dict>
+	</array>
+</dict>
+</plist>

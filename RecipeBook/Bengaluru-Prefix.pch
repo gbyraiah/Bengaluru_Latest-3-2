@@ -1,0 +1,19 @@
+//
+// Prefix header for all source files of the 'RecipeBook' target in the 'RecipeBook' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#endif
+#import"CommonClass.h"
+#define MAIN_STORYBOARD_ID @"MainStoryboard"
+#define CAPTURE_PICTURE_STORYBOARD_ID @"linkview"
+#define MAP_STORYBOARD_ID @"mapview"
